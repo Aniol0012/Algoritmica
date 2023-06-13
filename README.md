@@ -1,5 +1,5 @@
 # Algoritmica
-2n de Enginyeria Informàtica UDL
+2n d'Enginyeria Informàtica UDL
 
 ### Febrer - Juny de 2023
 Autors:
@@ -13,6 +13,6 @@ Repositori de les activitats i pràctiques realitzades a Algorítmica i Complexi
 ### Instal·lació:
 
    ```sh
-   git clone https://github.com/Aniol0012/Algoritmica
+   git clone https://github.com/Aniol0012/Algoritmica.git
    ```
  
